@@ -1,0 +1,38 @@
+.navbar{
+    
+    height:180px;
+    background-color: #ce003427;
+    padding-top: -20px;
+}
+.navbar-nav {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    
+}
+.dropdown-menu{
+    background-color: #ce0033;
+    opacity: 80%;
+    
+}
+.dropdown-item{
+
+    color:white;
+    box-shadow: #fff 2px 3px 3px;
+}
+.nav-link{
+    color: #ce0033;
+}
+a{
+    font-size: x-large;
+  
+   
+}
+.im1{
+    height: 20px;
+    width: 20px;
+}
+.im2{
+    height: 80px;
+    width: 80px;
+}
